@@ -20,4 +20,4 @@ x15 = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "L", "M", "N", "O", "P", "Q"
 x16 = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "Z", "X", "J", "W", "Y", "a", "b", "c", "d", "e", "f", "g", "h", "i", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "z", "x", "j", "w", "y", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
 
 print(f"https://discord.gift/{random.choice(x1)}{random.choice(x2)}{random.choice(x3)}{random.choice(x4)}{random.choice(x5)}{random.choice(x6)}{random.choice(x7)}{random.choice(x8)}{random.choice(x9)}{random.choice(x10)}{random.choice(x11)}{random.choice(x12)}{random.choice(x13)}{random.choice(x14)}{random.choice(x15)}{random.choice(x16)}")
-input("Press  to exit...")
+input("Press enter to exit...")
